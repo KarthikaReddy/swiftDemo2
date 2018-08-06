@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Project1
 //
-//  Created by TwoStraws on 11/08/2016.
-//  Copyright © 2016 Paul Hudson. All rights reserved.
+//  Copyright © 2018 Manas Pradhan. All rights reserved.
 //
 
 import UIKit
